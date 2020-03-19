@@ -2,7 +2,7 @@
   {
     "nome": "Boladão",
     "tipo" : "gato",
-    "foods": {
+    "gostos": {
       "likes": ["comer", "dormir"],
       "dislikes": ["cachorro", "água"]
     }
@@ -10,7 +10,7 @@
   {
     "nome": "Mil Grau",
     "tipo" : "cachorro",
-    "foods": {
+    "gostos": {
       "likes": ["brincar", "passear"],
       "dislikes": ["barulho"]
     }
@@ -18,7 +18,7 @@
   {
     "nome": "Louro",
     "tipo" : "papagaio",
-    "foods": {
+    "gostos": {
       "likes": ["comer"],
       "dislikes": ["gavião"]
     }
