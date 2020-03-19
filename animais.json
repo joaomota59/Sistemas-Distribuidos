@@ -11,7 +11,7 @@
     "nome": "Mil Grau",
     "tipo" : "cachorro",
     "foods": {
-      "likes": ["bola", "passear"],
+      "likes": ["brincar", "passear"],
       "dislikes": ["barulho"]
     }
   },
