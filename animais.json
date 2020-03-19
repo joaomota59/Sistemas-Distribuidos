@@ -1,26 +1,26 @@
 [
   {
-    "name": "Meowsy",
-    "species" : "cat",
+    "nome": "Boladão",
+    "tipo" : "gato",
     "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
+      "likes": ["comer", "dormir"],
+      "dislikes": ["cachorro", "água"]
     }
   },
   {
-    "name": "Barky",
-    "species" : "dog",
+    "nome": "Mil Grau",
+    "tipo" : "cachorro",
     "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
+      "likes": ["bola", "passear"],
+      "dislikes": ["barulho"]
     }
   },
   {
-    "name": "Purrpaws",
-    "species" : "cat",
+    "name": "Louro",
+    "species" : "papagaio",
     "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
+      "likes": ["comer"],
+      "dislikes": ["gavião"]
     }
   }
 ]
