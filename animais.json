@@ -16,8 +16,8 @@
     }
   },
   {
-    "name": "Louro",
-    "species" : "papagaio",
+    "nome": "Louro",
+    "tipo" : "papagaio",
     "foods": {
       "likes": ["comer"],
       "dislikes": ["gavião"]
