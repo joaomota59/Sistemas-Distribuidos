@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Sherlock",
+    "tipo" : "Cobra",
+    "gostos": {
+      "likes": ["locais úmidos", "roedores"],
+      "dislikes": ["carrots"]
+    }
+  },
+  {
+    "nome": "Tadeu",
+    "tipo" : "Cachorro",
+    "gostos": {
+      "likes": ["comida de cachorro"],
+      "dislikes": ["comida de gato"]
+    }
+  },
+  {
+    "nome": "Dorime",
+    "tipo" : "Rato",
+    "gostos": {
+      "likes": ["roer"],
+      "dislikes": ["cobra,lagarto"]
+    }
+  }
+]
