@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Veloster",
+    "tipo" : "Onça Pintada",
+    "gostos": {
+      "likes": ["capivaras", "coelhos","antas"],
+      "dislikes": ["homem"]
+    }
+  },
+  {
+    "nome": "José",
+    "tipo" : "Pássaro",
+    "gostos": {
+      "likes": ["insetos","minhocas"],
+      "dislikes": ["poluição ambiental"]
+    }
+  },
+  {
+    "nome": "Rico",
+    "tipo" : "Pato",
+    "gostos": {
+      "likes": ["frutas","vegetais"],
+      "dislikes": ["cachorro"]
+    }
+  }
+]
