@@ -20,7 +20,7 @@
     "tipo" : "Rato",
     "gostos": {
       "likes": ["roer"],
-      "dislikes": ["cobra,lagarto"]
+      "dislikes": ["cobra","lagarto"]
     }
   }
 ]
